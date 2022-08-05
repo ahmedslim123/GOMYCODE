@@ -1,0 +1,84 @@
+body {
+    background-color: #5C14EB;
+  }
+
+h1{
+    color: rgb(13, 93, 163);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:link{
+    color: whitesmoke;
+}
+a:visited{
+    color: whitesmoke;  
+}
+a:hover{
+    color: #074A97;
+}
+.links{
+    background-color: #5f8fc6f8;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left:20px;
+    font-size: 20px;
+    text-decoration: none;
+    border-style:inset;
+    border-color:#6A68D7;
+    border-radius:50px;
+    border-right: 20px;
+    border-width: 5px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:fit-content;
+}
+.top{
+    text-align: right;
+    margin-right: 120px;
+    margin-bottom: 50px;
+}
+
+.about{
+    margin-left: 45px;
+    border-radius: 50%;   
+}
+.mypic{
+    margin-left: 650px;
+    margin-top: 50px;
+    border-radius: 55px;
+}
+.aboutme h2{
+    text-align: center;
+    font-family:cursive;
+    color:#E2DBCD;
+    font-size:30px;
+    font-style: oblique;
+}
+.aboutme p{
+    text-align: center;
+    color:#E2DBCD;
+    font-size:25px;
+    font-family:cursive;
+
+}
+.exemples h2{
+    text-align: center;
+    color:#52C8ED;
+    font-size:35px;
+    margin-top: 110px;  
+}
+.exemples h3{
+    text-align: center;
+    color:#E2DBCD;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.exemples img{
+    margin-left: 460px;
+    width: 600px;
+    border-radius: 45px;
+}
+.footer{
+    text-align: right;
+    color:#E2DBCD;
+}
