@@ -41,7 +41,7 @@ section{
     gap: 40px;
 }
 .most-view img{
-    width: 400px;
+    width: 60vh;
     height: 240px;
 
 }
@@ -91,7 +91,7 @@ section{
 .film-card{
     background-color: #1E1A1A;
     border-radius: 25px;
-    width: 800px;
+    width: 80vw;
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -251,3 +251,44 @@ input[type=email] {
     color: whitesmoke;
     padding-left: 30px;
   }
+
+
+  @media screen and (max-width: 600px) {
+  
+    
+    .most-view div{
+        
+       flex-direction: column;
+    }
+    .most-view img{
+        width: 250px;
+        height: 140px;
+    }
+    header{
+        flex-direction: column;
+    }
+    .film-list {
+        flex-direction: column;
+    }
+    footer{
+        height:100%;
+    }
+    .news{
+        padding-left:10px;
+    }
+    .news input{
+        width: 200px;
+    }
+    input[type=email] {
+        padding-left: 5px;
+    }
+    footer h1 {
+        color: whitesmoke;
+        font-size: 60px;
+         padding-left: 30px; 
+    }
+    footer p {
+        padding-left: 54px;
+    }
+  }
+  

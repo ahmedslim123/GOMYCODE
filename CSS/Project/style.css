@@ -141,6 +141,16 @@ button{
     font-size:17px;
     color:whitesmoke;
 }
+#country{ 
+    border: 0;
+    background-color: transparent;
+    color: whitesmoke;
+    text-align: center;
+}
+.selected{
+    color: black;
+}
+
 .pubs{
     display:flex;
     justify-content:space-around; 
