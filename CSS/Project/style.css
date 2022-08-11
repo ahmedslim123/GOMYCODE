@@ -1,0 +1,337 @@
+header{
+    position:sticky ;
+    left: 0;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.top{
+    display:flex;
+    justify-content: space-around;
+
+}
+.top img {
+    width:260px;
+    
+}
+nav ul {
+    display:flex;
+    align-items: center;
+    text-decoration: none;
+
+}
+a{
+    text-decoration:none;
+}
+.top div a {
+    color:rgb(173, 173, 173);
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 30px;
+
+}
+nav li{
+    
+    padding-right: 30px; 
+    font-family:cursive; 
+    
+  
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(173, 173, 173);
+    
+}
+nav li a:hover{
+    color:rgb(42, 199, 162) !important;
+    
+}
+nav div a:hover{
+    color:rgb(42, 199, 162) !important;
+    
+}
+
+button{
+    background-color:white!important;
+    color:rgb(173, 173, 173) !important;
+    border-color:white !important;
+}
+
+.dropdown-item{
+    color: rgb(173, 173, 173)!important;
+    text-align: center !important;
+}
+.info {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 80px;   
+}
+.info h2
+{
+    color:rgb(42, 199, 162);
+    font-size:33px;
+    font-style:italic;
+    font-weight: 50;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.articles {
+    display: flex;
+    justify-content:space-around;
+    gap:20px;
+    align-items: center;
+    text-align:center;
+    padding: 50px;
+    color:rgb(120, 120, 120);
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1.75;
+    font-size:17px;
+    width: 70%;
+}
+.cadres{
+    display : flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-left:200px;
+    gap: 30px;
+    padding-right: 200px;
+}
+.cadres img {
+    padding-top: 20px;
+    width: 10%;
+}
+.patient{
+    BACKGROUND-COLOR:rgb(42, 199, 162);
+    width:500px;
+    height: 300px;
+    border-radius:20px;
+    text-align: center;
+}
+.doctor{
+    BACKGROUND-COLOR:rgb(10, 80, 165);
+    width:500px;
+    height: 300px;
+    border-radius:20px;
+    text-align: center;
+}
+.clinic{
+    BACKGROUND-COLOR:rgb(24, 26, 25);
+    width:500px;
+    height: 300px;
+    border-radius:20px;
+    text-align: center;
+}
+
+.cadres h2{
+    font-size:30px;
+    color:whitesmoke;
+    font-family: Work Sans,Arial,sans-serif;
+    letter-spacing: -.3px;
+    font-weight: 400;
+}
+.cadres p{
+    font-size:20px;
+    color:whitesmoke;
+    font-family: Work Sans,Arial,sans-serif;
+    letter-spacing: -.3px;
+    font-weight: 400;
+}
+.cadres label{
+    font-size:17px;
+    color:whitesmoke;
+}
+.pubs{
+    display:flex;
+    justify-content:space-around; 
+    padding:50px;
+    gap: 30px;
+    
+    
+}
+.pubs h2{
+    color:rgb(42, 199, 162);
+    float: left;
+    width: 50%;
+    font-size: 30px;
+    padding-right:11px;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    font-family: Work Sans,Arial,sans-serif;  
+}
+.brands__logos{
+    list-style-type: none;
+    display:flex;
+    gap:20px;
+ 
+}
+.middle {
+    background-color:rgb(215, 251, 241);
+    display: flex;
+    height: 600px;
+    justify-content:space-between;
+    padding:30px;
+    
+}
+.isar{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    flex-direction:column;
+    padding-left: 100px;
+    padding-bottom: 200px;
+    
+}
+.isar h2{
+    color:rgb(42, 199, 162);
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    font-size: 30px;
+}
+.isar p{
+    max-width: 415px;
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.7142857143;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    
+}
+.isar img{
+    width:50%;
+    padding-top: 500px;    
+}
+.imin{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    gap:2px;
+    padding-left: 100px;
+    padding-top:5px;
+    
+    
+}
+.drapeau , .visits , .patients , .doctors{
+    background-color:whitesmoke;
+    width: 400px;
+    height: 170px;
+    padding-left: 100px;
+    text-align: center;
+    padding: 12px;
+    font-size:70%;
+}
+.improve{
+    display:flex;
+    text-align: center;
+    align-items:center;
+    justify-content:space-between;
+    padding-left:200px;
+    padding-right: 200px;
+    flex-direction:column;
+   padding-top: 60px;
+}
+.improve h2{
+    color:rgb(42, 199, 162);
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    font-size: 30px;  
+    font-style: italic;
+}
+.improve  p{
+    line-height: 1.7142857143;
+    color:rgb(114, 113, 113)
+}
+.countries {
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    text-align: center;
+    align-content: center;
+    flex-wrap: wrap; 
+}
+.countries a{
+    text-decoration:none;
+    text-align: center;
+    background-color:whitesmoke;
+    
+    
+}
+.countries p{
+    color:rgb(107, 107, 107);
+    font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    font-family: fantasy;
+}
+.countries h3{
+    background-color:rgb(60, 128, 222);
+    color:whitesmoke;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+.countries h3:hover{
+    background-color:rgb(39, 97, 177);
+    color:whitesmoke;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+.countries img{
+    border-radius: 20px;
+}
+.countries a:hover{
+    background-color:rgb(230, 230, 230);   
+}
+.join{
+    display: flex;
+    padding-top: 80px;
+    align-items:center;
+    text-align: center;
+    align-content: center;
+    justify-content:center;
+    flex-direction:column; 
+}
+.join h2{
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    font-size:30px;
+}
+.join h3{
+    background-color:rgb(60, 128, 222);
+    color:whitesmoke;
+    border-radius: 10px;
+   text-align: center;
+   padding: 20px;
+   
+   
+}
+.join a{
+    text-decoration:none;
+    color:whitesmoke;
+}
+.join h3:hover{
+    background-color:rgb(39, 97, 177);
+    padding: 20px;
+    border-radius: 10px; 
+}
+.footer p{
+    color: #b3b3b3;
+    font-size:12px;
+    text-align:center;
+}
+.footer{
+    background-color:rgb(244, 244, 244);
+    padding-top: 60px;
+    border-top: 1px solid rgb(221, 221, 221);
+}
+.footer a{
+    text-decoration:none;
+    color:rgb(60, 128, 222);
+}
+.footer a:hover{
+    text-decoration:underline;
+}

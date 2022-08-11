@@ -1,0 +1,48 @@
+body{
+    background-color:black;
+}
+.header h2{
+    color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline;
+}
+.links{
+   color: antiquewhite;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left:20px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius:50px;
+    border-right: 20px;
+    border-width: 5px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:fit-content;
+}
+.top{
+    text-align: right;
+    margin-right: 120px;
+    margin-bottom:150px;
+    
+}
+.header h3{
+    color:whitesmoke;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom: 120px;
+    width: bold;
+    
+}
+.im{
+    width:400px;
+    height:300px;
+    margin-left: 80px;   
+    
+}
+.im:hover {
+    zoom:1.1;
+}
+    
+

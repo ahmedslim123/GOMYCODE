@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0C0B10;
+    color: white;
+    padding: 20px 40px;
+}
+header div a{
+    text-decoration: none;
+    color: white;
+    padding: 0 10px;
+}
+header div a:hover{
+    color: rgba(255, 255, 255, 0.784);  
+}
+section{
+    background-color: #262626;
+}
+.most-view{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+    color: white;
+}
+ h3{
+    font-size: 30px;
+    padding: 40px 0;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+.most-view div{
+    display: flex;
+    padding: 0 40px;
+    gap: 40px;
+}
+.most-view img{
+    width: 400px;
+    height: 240px;
+
+}
+.trending{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+    color: white; 
+}
+.card-item{
+    background-color: #1E1A1A;
+    border-radius: 25px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+   
+}
+.card-item img {
+    width: 200px;
+    height: 270px;
+}
+.card-item div{
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-item p{
+    padding: 10px 20px;
+}
+.groupe-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 70%;
+    gap: 40px;
+}
+.movie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+    color: white;
+}
+.film-card{
+    background-color: #1E1A1A;
+    border-radius: 25px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.movie-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 40px;
+}
+.movie-title h2{
+    background-color: rgb(42, 42, 185);
+    font-family:cursive;
+    border-radius: 20px;
+    width:125px;
+    text-align: center;
+   
+}
+.movie p{
+    padding: 10px 40px;  
+}
+.film-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row; 
+    padding: 40px ;
+    gap:20px;
+}
+
+
+.one{
+    background-image: url(pics/bubble.jpg);
+    width: 200px;
+    height:120px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.one h5{
+   background-color: #0C0B10;
+   text-align: center;
+   font-family:cursive;
+   width:200px;
+   opacity: 0.7;
+}
+.two{
+    background-image: url(pics/kuroko.jpg);
+    width: 200px;
+    height:120px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.two h5{
+   background-color: #0C0B10;
+   text-align: center;
+   font-family:cursive;
+   width:200px;
+   opacity: 0.7;
+}
+.three{
+    background-image: url(pics/seven.jpg);
+    width: 200px;
+    height:120px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.three h5{
+   background-color: #0C0B10;
+   text-align: center;
+   font-family:cursive;
+   width:200px;
+   opacity: 0.7;
+}
+.four{
+    background-image: url(pics/silent.jpg);
+    width: 200px;
+    height:120px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.four h5{
+   background-color: #0C0B10;
+   text-align: center;
+   font-family:cursive;
+   width:200px;
+   opacity: 0.7;
+}
+footer{
+    background-color: #1E1A1A;
+    height:180px;
+   display: flex;
+    gap : 10px;
+    flex-wrap:  wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding:  81px 0px;
+ 
+}
+.animey{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    
+}
+footer h1{
+    color:whitesmoke;
+    font-size: 80px;
+    padding-left: 80px;
+}
+footer p{
+    color:rgba(255, 255, 255, 0.779);
+    font-size: 20px;
+    padding-left: 80px;
+}
+footer a{
+    text-decoration: none;
+    color:white;
+    padding-left: 20px;
+    
+    
+}
+.icons{
+    padding-left:80px;
+    font-size: 30px;
+}
+.news{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    padding: 0 110px;
+    
+}
+.news label{
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 40px;
+    
+}
+.news input{
+    width: 350px;
+    height: 40px;
+    background-color:#1E1A1A;
+    border: 1px solid rgba(255, 255, 255, 0.567);
+
+}
+input[type=email] {
+    color: whitesmoke;
+    padding-left: 30px;
+  }

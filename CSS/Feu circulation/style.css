@@ -1,0 +1,55 @@
+.cercle1{
+    BACKGROUND-COLOR:red;
+    border-radius: 200px;
+    width: 100px;
+    height: 100px;
+    size: 100px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+
+}
+.cercle1:hover{
+    background-color:rgb(255, 10, 149);
+}
+.cercle2{
+    BACKGROUND-COLOR:yellow;
+    border-radius: 200px;
+    width: 100px;
+    height: 100px;
+    size: 100px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+
+}
+.cercle2:hover{
+    background-color:pink;
+}
+
+.cercle3{
+    BACKGROUND-COLOR:green;
+    border-radius: 200px;
+    width: 100px;
+    height: 100px;
+    size: 100px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+.cercle3:hover{
+    background-color:rgb(13, 255, 227);
+}
+.feu{
+    margin-top: 40px;
+    background-color:black;
+    width: 120px;
+    height: 300px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.rectangle{
+    background-color:black;
+    width:20px;
+    height: 300px;
+    margin-left: 50px;
+}
+
+    

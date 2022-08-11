@@ -1,0 +1,420 @@
+Uri: http://s3-eu-west-1.amazonaws.com/docplanner.com/video/button_place.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\docplanner.com\video\button_place.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.docplanner.com\ajax\libs\jquery\1.11.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700|Work+Sans:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\www.docplanner.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.docplanner.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.docplanner.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.docplanner.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\www.docplanner.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\www.docplanner.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\www.docplanner.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\www.docplanner.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\www.docplanner.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://www.docplanner.com/
+File Name: C:\Downloaded Web Sites\www.docplanner.com\index.htm
+Content Type: text/html
+
+Uri: https://www.docplanner.com/career
+File Name: C:\Downloaded Web Sites\www.docplanner.com\career.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/career?&loc=brazil
+File Name: C:\Downloaded Web Sites\www.docplanner.com\career-6.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/career?&loc=germany
+File Name: C:\Downloaded Web Sites\www.docplanner.com\career-3.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/career?&loc=italy
+File Name: C:\Downloaded Web Sites\www.docplanner.com\career-5.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/career?&loc=mexico
+File Name: C:\Downloaded Web Sites\www.docplanner.com\career-7.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/career?&loc=poland
+File Name: C:\Downloaded Web Sites\www.docplanner.com\career-1.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/career?&loc=spain
+File Name: C:\Downloaded Web Sites\www.docplanner.com\career-2.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/career?&loc=turkey
+File Name: C:\Downloaded Web Sites\www.docplanner.com\career-4.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/department?dep=customer
+File Name: C:\Downloaded Web Sites\www.docplanner.com\department-1.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/department?dep=finance
+File Name: C:\Downloaded Web Sites\www.docplanner.com\department-3.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/department?dep=hr
+File Name: C:\Downloaded Web Sites\www.docplanner.com\department-4.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/department?dep=it
+File Name: C:\Downloaded Web Sites\www.docplanner.com\department-2.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/department?dep=marketing
+File Name: C:\Downloaded Web Sites\www.docplanner.com\department.html
+Content Type: text/html
+
+Uri: https://www.docplanner.com/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/favicon/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.docplanner.com\favicon\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://www.docplanner.com/icons/arrow-icon@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\arrow-icon@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/biceps.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\biceps.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/biceps@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\biceps@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/comfort.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\comfort.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/comfort@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\comfort@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/feedback.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\feedback.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/feedback@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\feedback@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/focus.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\focus.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/focus@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\focus@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/icon-caret-white.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\icon-caret-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/icons/icon-clinics.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\icon-clinics.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/icons/icon-doctors.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\icon-doctors.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/icons/icon-patients.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\icon-patients.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/icons/instagram.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/icons/love.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\love.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/love@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\love@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/simple.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\simple.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/simple@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\simple@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/tick.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\tick.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/icons/tick@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\icons\tick@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/barcelona.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\barcelona.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/barcelona@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\barcelona@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/bg-top.jpg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\bg-top.jpg
+Content Type: image/jpeg
+
+Uri: https://www.docplanner.com/images/bologna.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\bologna.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/bologna@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\bologna@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/curitiba.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\curitiba.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/curitiba@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\curitiba@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/fb1.jpg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\fb1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.docplanner.com/images/fb2.jpg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\fb2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.docplanner.com/images/fb3.jpg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\fb3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.docplanner.com/images/istanbul.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\istanbul.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/istanbul@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\istanbul@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/mexico-city.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\mexico-city.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/mexico-city@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\mexico-city@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/munich.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\munich.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/munich@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\munich@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/rome.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\rome.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/rome@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\rome@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/testimonial-1.jpg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\testimonial-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.docplanner.com/images/testimonial-2.jpg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\testimonial-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.docplanner.com/images/video-en.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\video-en.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/video.jpg?v=1
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\video.jpg
+Content Type: image/jpeg
+
+Uri: https://www.docplanner.com/images/warsaw.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\warsaw.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/images/warsaw@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\images\warsaw@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/all-locations.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\all-locations.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/brazil.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\brazil.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/doctors.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\doctors.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/doctors@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\doctors@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/flag.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\flag.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/flag@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\flag@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/germany.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\germany.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/italy.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\italy.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/logo-default-group-en.svg?v=1
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\logo-default-group-en.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/logo.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\logo.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/mexico.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\mexico.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/patients.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\patients.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/patients@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\patients@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/poland.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\poland.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/spain.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\spain.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/sygnet.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\sygnet.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/sygnet@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\sygnet@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/turkey.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\turkey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/img/visits.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\visits.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/img/visits@2x.png
+File Name: C:\Downloaded Web Sites\www.docplanner.com\img\visits@2x.png
+Content Type: image/png
+
+Uri: https://www.docplanner.com/logos/logo-clinicloud.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\logos\logo-clinicloud.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/logos/logo-gipo.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\logos\logo-gipo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/logos/logo-jameda.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\logos\logo-jameda.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/logos/logo-tuotempo.svg
+File Name: C:\Downloaded Web Sites\www.docplanner.com\logos\logo-tuotempo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.docplanner.com/static/css/department.css
+File Name: C:\Downloaded Web Sites\www.docplanner.com\static\css\department.css
+Content Type: text/css
+
+Uri: https://www.docplanner.com/static/css/main.css
+File Name: C:\Downloaded Web Sites\www.docplanner.com\static\css\main.css
+Content Type: text/css
+
+Uri: https://www.docplanner.com/static/js/department.js
+File Name: C:\Downloaded Web Sites\www.docplanner.com\static\js\department.js
+Content Type: application/javascript
+
+Uri: https://www.docplanner.com/static/js/main.js
+File Name: C:\Downloaded Web Sites\www.docplanner.com\static\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.docplanner.com/static/js/vendor/instafeed.min.js
+File Name: C:\Downloaded Web Sites\www.docplanner.com\static\js\vendor\instafeed.min.js
+Content Type: application/javascript
+
+Uri: https://www.docplanner.com/static/js/vendor/jquery.scrollTo.min.js
+File Name: C:\Downloaded Web Sites\www.docplanner.com\static\js\vendor\jquery.scrollTo.min.js
+Content Type: application/javascript
+
+Uri: https://www.docplanner.com/static/js/vendor/vendor.min.js
+File Name: C:\Downloaded Web Sites\www.docplanner.com\static\js\vendor\vendor.min.js
+Content Type: application/javascript
+
