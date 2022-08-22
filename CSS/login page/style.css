@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    display:flex;
+    justify-content:space-around;
+   
+}
+.join{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.779), rgba(0, 0, 0, 0.697) ), url('pics/backg.jpg'); 
+    width: 60vw;
+    height: 100vh;
+    background-size: cover;
+
+   
+}
+.join h1{
+    color: rgb(118, 244, 255); 
+    z-index:10;
+    width: 60%;
+    line-height: 1.16;
+    font-size: 80px;
+    text-align: center;
+    font-weight: 500;
+    font-family:roboto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 80px 200px;
+
+}
+.join i{
+    color: rgb(118, 244, 255);
+    z-index:10;
+    font-size:85px;
+    padding-top: 90px;
+    padding-left: 50px;
+   
+}
+
+.login{
+    width: 40vw;
+    background-color: rgba(255, 255, 255, 0.921);
+    display:flex;
+    flex-direction: column;
+    gap:40px;
+    justify-content: center;
+    text-align: center;
+    padding-left: 30px;
+    
+    
+}
+.login img{
+    width: 50%;
+    padding-left: 150px;
+}
+.login h3{
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.mail{
+    padding-left:20px;
+}
+.login input{
+    background-color:rgb(245, 248, 255);
+    height:30px;
+    width:90%;
+    border: none;
+}
+::-webkit-input-placeholder { 
+    color: rgba(0, 0, 0, 0.312);
+    font-size:15px;
+  }
+  .login h2{
+    color: whitesmoke;
+    background-color:#291bb9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    height: unset;
+    width:90%;
+    padding: 15px;
+  }
+  .login h4{
+    background-color:white;
+    border: 1px solid #291bb9;
+    color:#291bb9;
+    width:30%;
+    padding:5px;
+  }

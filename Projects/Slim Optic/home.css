@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    background-color:white;
+    padding:30px 80px;
+    position:sticky ;
+    left: 0;
+    top: 0;
+    z-index: 9;
+    
+}
+nav img{
+    width: 12vh;
+}
+nav ul{
+    display: flex;
+    gap: 40px;
+    padding-top: 10px;
+}
+nav ul a{
+    text-decoration: none;
+    color:#707070;
+    font-family: Segoe UI;
+}
+nav ul a:hover{
+    color:#0986FA;
+}
+.carousel-inner img{
+    width:70vh;
+    height:580px;
+}
+.nouveaute{
+    display:flex;
+    
+    padding:30px 80px;
+    font-family: Open Sans;
+    font-size:25px;
+    font-weight:800;
+    text-align: center;
+}
+.nouv{
+    background-color: #0986FA;
+    color: white;
+    width:200px;
+    
+    
+}
+.promo{
+    width:200px;
+    background-color: white;
+    color:#707070;
+}
+.promo:hover{
+    background-color: #0986FA;
+    color: white;
+}
+.nouv-pics{
+    display :flex;
+    justify-content:space-around;
+    padding-left: 5px;
+}
+.nouv-pics img{
+    width: 50vh;
+}
