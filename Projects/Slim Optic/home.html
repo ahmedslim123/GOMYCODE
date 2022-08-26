@@ -4,18 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">    
     <link rel="stylesheet" href="./home.css"/>
     <title>Home</title>
 </head>
 <body>
     <nav>
-        <img src="pics/slim optic.png" alt="logo">
+         <a href="home.html"><img src="pics/slim optic.png" alt="logo"></a>
         <ul>
             <div> <a href="home.html">Accueil</a> </div>
-            <div> <a href="#">Services</a> </div>
-            <div> <a href="#">Lunettes</a> </div>
-            <div> <a href="#">A propos</a> </div>
+            <div> <a href="#serv">Services</a> </div>
+            <div> <button class="" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Lunettes
+              <i class="fa-solid fa-caret-down"></i>
+            </button>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="LunettesSoleil.html">Lunettes de vue</a></li>
+              <li><a class="dropdown-item" href="LunettesSoleil.html">Lunettes de soleil</a></li>
+            </ul></div>
+            <div> <a href="#aprop">A propos</a> </div>
 
         </ul>
     </nav>
@@ -45,36 +54,141 @@
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>
-      </div>
+        </div>
+    </div>
+
 
       <div class="nouveaute">
         <div class="nouv">NOUVEAUTES</div>
         <div class="promo">PROMOTIONS</div>
       </div>
       <div class="nouv-pics">
-        <img src="pics/lunette 1.jpg" alt="">
-        <img src="pics/lunette 2.jpg" alt="">
-        <img src="pics/lunete 3.jpg" alt="">
+        <div class="lun1">
+            <div class="nouveau">NOUVEAU</div> 
+            <img src="pics/lunette 2.jpg" alt="">
+            <div class="DT">
+                <h1>590DT</h1>
+                <h2>800DT</h2>
+                <h3>40%</h3>    
+             </div> 
+        </div>
+       
+        <div class="lun1">
+            <div class="nouveau">NOUVEAU</div> 
+            <img src="pics/lunette 1.jpg" alt="">
+            <div class="DT">
+                <h1>260DT</h1>
+                <h2>320DT</h2>
+                <h3>33%</h3>
+             </div>
+        </div>
+        <div class="lun1">
+            <div class="nouveau">NOUVEAU</div> 
+            <img src="pics/lunete 3.jpg" alt="">
+            <div class="DT">
+                <h1>350DT</h1>
+                <h2>480DT</h2>
+                <h3>25%</h3>
+             </div>
+        </div>
+      </div>
+
+      <div class="services" id="serv">
+        <h1>Services</h1>
+        <div class="ser-photos">
+            <div class="vente">
+                <h5>Vente lunettes</h5>
+             </div>
+             <div class="lentille">
+                <h5>Lentilles de contact</h5>
+             </div>
+             <div class="repara">
+                <h5>Réparation lunettes</h5>
+             </div>
+            
+        </div>
       </div>
 
 
+      <div class="client">
+        <h1>Avis Clients</h1>
+        <div class="client-box">
+            <div class="box">
+                <div class="both">
+                    <img src="pics/avis2.png" alt="">
+                    <div>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                 </div>
+                <h3>Merci  pour ton support et aide !</h3>
+            </div>
+            
+            <div class="box">
+                <div class="both">
+                    <img src="pics/girl.png" alt="">
+                    <div>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star-half-stroke"></i>
+                    </div>
+                 </div>
+                <h3>Excellent opticien, extrêmement professionnel et chaleureux !</h3>
+            </div>
+            <div class="box">
+                <div class="both">
+                    <img src="pics/avis3.png" alt="">
+                    <div>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                 </div>
+                <h3>Un accueil chaleureux très professionnel et un service irréprochable. Je le recommande vivement</h3>
+            </div>
+        </div>
+       </div>
 
+       <div class="propos" id="aprop">
+        <h1>A propos</h1>
+        <section class="apropos">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12936.571340409395!2d10.613061!3d35.845501!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x862b8b2fd7f7c517!2sSlim%20OPTIC!5e0!3m2!1sen!2stn!4v1661186453088!5m2!1sen!2stn" width="600" height="450" style="border:20px solid white;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div>
+            <h2>Localisation :</h2>
+            <h3>Perle du sahel à côté de carrefour  market khezama Est, Sousse, Tunisia.</h3>
+            <h2>Horaires :</h2>
+            <h3>Lundi -> Samedi de 9:00 jusqu'à 19:00</h3>
+            <h2>Email :</h2>
+            <h3>slim.optic@yahoo.com</h3>
+            <h2>Téléphone :</h2>
+            <h3>99 647 495</h3>
+            <h2>Suivez nous :</h2>
+            <div class="icons">
+               <a href="https://www.facebook.com/slimopticsousse" target="_blank"><img src="pics/fb.png" alt=""></a>
+               <a href="https://www.instagram.com/slim.optic/" target="_blank"> <img src="pics/insta.png" alt=""></a>
+            </div>
+          </div>
+        </section>
+       </div>
 
-
-
-
-
-
-
-
-
-
-
+       <footer>
+        <img src="pics/logo optc.jpg" alt="">
+        <h3>Copyright by Slim Optic  </h3>
+        <h3>Email Accessibility | Website Accessibility Policy | Login</h3>
+       </footer>
 
 
 
       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </body>
 </html>

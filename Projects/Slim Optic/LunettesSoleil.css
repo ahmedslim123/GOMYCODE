@@ -1,0 +1,407 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+   
+    display:flex;
+    justify-content: space-between;
+    background-color:rgba(247, 247, 247, 0.825);
+    height: 110px;
+    padding:20px 80px;
+    position:sticky ;
+    left: 0;
+    top: 0;
+    z-index: 9;
+    box-shadow: 0 2px 27px #00000008;
+    
+}
+nav img{
+    width: 12vh;
+}
+nav ul{
+    display: flex ;
+    gap: 40px;
+    padding-top: 10px;
+    align-items: baseline;
+}
+nav button{
+    text-decoration: none;
+    border: none !important;
+    background-color:transparent !important;
+    color: #707070 !important;
+}
+nav button:hover{
+    color: #0986FA !important;
+}
+
+.fa-caret-down{
+   color:#707070  !important;  
+}
+.fa-caret-down:hover{
+    color: #0986FA !important;
+}
+nav ul a{
+    text-decoration: none;
+    color:#707070;
+    font-family: Segoe UI;
+}
+nav ul a:hover{
+    color:#0986FA;
+    text-decoration: none;
+}
+.dropdown-menu a:hover{
+    color:#0986FA;
+}
+.icons{
+    display: flex;
+    gap: 2vw;
+}
+.basket{
+    position: relative;
+}
+.heart{
+    position: relative;
+}
+.pop{
+    position: absolute;
+    display: none;
+    background-color: rgba(255, 255, 255, 0.926);
+    width: 270px;
+    height: 400px;
+    border: 1px solid black;
+    overflow: scroll;
+    right:32px;
+    
+}
+
+#iki{ 
+    position: absolute;
+    display: none;
+    background-color: #fff;
+    width: 270px;
+    height: 400px;
+    border: 1px solid black;
+    overflow: scroll;
+    right:32px;
+   
+  }
+
+
+  .democlass img{
+    width: 200px;
+    height: 120px;
+    padding: 20px;
+  }
+  .democlass i{
+      display: none;
+  }
+  .democlass button {
+    display: none;
+  }
+  .democlass p{
+      font-size: 12px;
+      color: #000000;
+      text-align: end;
+  }
+  .democlass span{
+      font-size: 12px;
+      color: #cf8383;
+      
+  }
+  .democlass{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+      width: 240px;
+     
+  }  
+
+
+  #hell{
+    display: block;
+    color: #F3F3F3;
+    border-radius: 25px;
+}
+.bb{
+    font-size: 13px;
+    background-color: #000000;
+    color: #fff;
+}
+#delete{
+    display: block;
+    color: white;
+    border-radius: 9px; 
+}
+
+
+nav i{
+    color: #AFAFAF;
+    background-color: #F3F3F3;
+    padding: 8px;
+    border-radius: 50%;
+    
+}
+nav i:hover{
+    color:#0986FA;
+}
+.main{
+    display: flex;
+   
+}
+.side{
+    width:30vw;
+    padding: 4vw 4vw;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 5px 0 5px #0985fa11;
+}
+.products{
+    width:70vw;
+}
+.side p{
+    color: #1e1e1e;
+    font-weight:700;
+    font-size: 18px;
+
+}
+.genre{
+    display: flex;
+    gap:16px;
+}
+.marque {
+    display: flex;
+    gap:12px;
+}
+
+.side p i{
+    background-color: #eaeaea;
+    color:black;
+    margin-right: 8px;
+    padding: 8px;
+    border-radius: 50%;
+ 
+}
+.side p i:hover{
+    color: #0986FA;
+}
+.filter-title{
+    display: block;
+    font-weight: 700;
+    color: #0986FA;
+    padding: 10px 0;
+}
+.product-items{
+    display: flex;
+    gap: 25px;
+    flex-wrap:  wrap;
+}
+.input-check{
+    display: flex;
+    flex-direction: column;
+}
+.brand div{
+    color: #6f6f6f;
+    padding: 5px 0;
+}
+.brand img{
+    width:4vw;
+}
+.colors-filter{
+    display: flex;
+    gap:5px;
+}
+.colors-filter span{
+    width: 15px;
+    height: 15px;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: 0 2px 5px #AFAFAF;
+    display: inline-block;
+    border-radius: 50%;
+  
+}
+.colors-filter span:nth-child(2)
+{
+    background-color: #CE981C;
+}
+.colors-filter span:nth-child(3)
+{
+    background-color: #000000;
+}
+.colors-filter span:nth-child(4)
+{
+    background-color: #979797;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width:30%;
+    
+}
+.item img{
+    width: 340px;
+    height: 280px;
+}
+.item button{
+    padding: 8px 0;
+    background-color: transparent !important;
+    border: 1px solid rgb(151, 151, 151);
+    border-radius: 8px;
+    color: #707070;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.item button i{
+    padding: 0 8px;
+}
+.item div{
+    background-color: #F9F9F9;
+    padding: 1vw ;
+    display: flex;
+    justify-content: center;  
+    position: relative;
+}
+.item div i{
+    position:absolute;
+    top: 20px;
+    left: 2px;
+    font-size: 16px;
+    color:black;
+    background-color: #F3F3F3;
+    padding: 8px;
+    border-radius: 50%;
+}
+.item div i:hover{
+    color:#0986FA;
+}
+.item p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing:3px;
+}
+.item span{
+    text-align: center;
+}
+
+
+footer{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+    gap:5px;
+}
+footer img{
+    width:2vw;
+}
+footer h3{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
+
+@media screen and (max-width: 600px){
+    nav{
+        padding:10px 10px;
+        justify-content:space-around;
+        height: 70px;
+    }
+    nav ul{
+       gap:9px;
+       font-size:12px;
+    }
+    nav img{
+        width: 12vw;
+    }
+    .dropdown-menu a{
+        font-size:12px;
+
+    }
+   
+    .side{
+        width:45vw;
+        font-size: 10px;
+        flex-direction: column;    
+    }
+
+    .side p{
+        font-size: 10px;
+    }
+    .genre{
+        
+        flex-direction: column;
+        gap:1px;
+    }
+    .marque {
+       
+        flex-direction: column;
+        gap:1px;
+    }
+    
+    .side p i{
+        margin-right: 8px;
+        padding: 8px;
+    }
+    .item img{
+        width: 183px;
+        height: 128px;
+    }
+    .item button{
+        font-size: 12px;
+    
+    }
+    .item div i{
+        font-size: 10px;
+        padding: 6px;
+        top: 5px;
+        left: 10px;
+    }
+    .item p{
+        
+        font-weight: 600;
+        font-size: 11px;
+        letter-spacing:1px;
+    }
+    .item span{
+        font-size: 11px;
+    }
+    .product-items{
+        flex-direction:column;
+        gap:10px;
+        align-items:center;
+        justify-content:center;
+    }
+
+    footer img{
+        width:5vw;
+    }
+    footer h3{
+        font-size: 10px;
+       
+    }
+    .item{
+        width:30vh;;
+    }
+
+    .pop{
+       
+        width: 170px;
+        height: 250px;
+        right: 20px;
+        
+    }
+    
+    #iki{ 
+        width: 170px;
+        height: 250px;
+        right: 20px;
+       
+      }
+}

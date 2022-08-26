@@ -1,0 +1,220 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://egypt-5nge.onrender.com/
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\index.htm
+Content Type: text/html
+
+Uri: https://egypt-5nge.onrender.com/images/about-img.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\about-img.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/dish-1.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\dish-1.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/dish-2.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\dish-2.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/dish-3.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\dish-3.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/dish-4.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\dish-4.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/dish-5.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\dish-5.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/dish-6.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\dish-6.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/home-img-1.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\home-img-1.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/home-img-2.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\home-img-2.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/home-img-3.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\home-img-3.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/loader.gif
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\loader.gif
+Content Type: image/gif
+
+Uri: https://egypt-5nge.onrender.com/images/menu-1.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-1.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/menu-2.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-2.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/menu-3.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-3.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/menu-4.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-4.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/menu-5.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-5.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/menu-6.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-6.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/menu-7.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-7.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/menu-8.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-8.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/menu-9.jpg
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\menu-9.jpg
+Content Type: image/jpeg
+
+Uri: https://egypt-5nge.onrender.com/images/pic-1.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\pic-1.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/pic-2.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\pic-2.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/pic-3.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\pic-3.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/pic-4.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\pic-4.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/images/R.png
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\images\R.png
+Content Type: image/png
+
+Uri: https://egypt-5nge.onrender.com/script.js
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\script.js
+Content Type: text/javascript
+
+Uri: https://egypt-5nge.onrender.com/style.css
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/swiper@8.3.2/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\swiper@8.3.2\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/swiper@8.3.2/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\egypt-5nge.onrender.com\swiper@8.3.2\swiper-bundle.min.js
+Content Type: application/javascript
+

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./LunettesSoleil.css"/>
+    <title > Lunettes soleil</title>
+</head>
+<body>
+    <nav>
+        <a href="home.html"><img src="pics/slim optic.png" alt="logo"></a>
+       <ul>
+           <div> <a href="home.html">Accueil</a> </div>
+           <div> <button class="" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+             Lunettes
+             <i class="fa-solid fa-caret-down"></i>
+           </button>
+           <ul class="dropdown-menu">
+             <li><a class="dropdown-item" href="LuntettesVue.html">Lunettes de vue</a></li>
+             <li><a class="dropdown-item" href="LunettesSoleil.html">Lunettes de soleil</a></li>
+           </ul></div>
+           <div class="icons">
+            <div class="heart">
+                <i class="fa-solid fa-heart" onclick=like()></i>
+                <div id="iki"></div>
+            </div>
+            
+            <div class="basket">
+            <i class="fa-solid fa-basket-shopping" onclick=show()></i>
+            <div class="pop" ></div>
+             </div>
+
+       </ul>
+   </nav>
+
+   <section class="main">
+    <div class="side">
+        <p>
+            <i class="fa-solid fa-filter"></i>
+             Filter 
+        </p>
+        <div class="brand">
+            <span class="filter-title">Genre : </span>
+            <div class="genre">
+                <div>
+                    <div>
+                <input type="checkbox" name="" id="" onclick="showHomme()">
+                <label for="">Homme</label>
+            </div>
+        <div>
+            <input type="checkbox" name="" id="" onclick=showFemme()>
+            <label for="">Femme</label>
+        </div> 
+                </div>
+               <div>
+                <div>
+            <input type="checkbox" name="" id=""onclick=showMixte()>
+            <label for="">Mixte</label>
+        </div>
+        <div>
+            <input type="checkbox" name="" id="" onclick=showEnfant()>
+            <label for="">Enfant</label>
+        </div>
+               </div>
+        
+        </div>
+            </div>
+            
+        <div class="brand">
+            <span class="filter-title">Marque :</span>
+            <div class="marque">
+                <div>
+                    <div>
+            <input type="checkbox" name="" id="">
+            <label for="">Police</label>
+        </div>
+        <div>
+            <input type="checkbox" name="" id="">
+            <label for="">Chanel</label>
+        </div>
+        <div>
+            <input type="checkbox" name="" id="">
+            <label for="">Persol</label>
+        </div>
+        <div>
+            <input type="checkbox" name="" id="">
+            <label for="">Dolce & Gabban</label>
+        </div>
+                </div>
+                <div>
+                    <div>
+            <input type="checkbox" name="" id="">
+            <label for="">Giorgio Armani</label>
+        </div>
+        <div>
+            <input type="checkbox" name="" id="">
+            <label for="">Lacoste</label>
+        </div>
+        <div>
+            <input type="checkbox" name="" id="">
+            <label for="">Prada</label>
+        </div>
+        <div>
+            <input type="checkbox" name="" id="">
+            <label for="">Saint Laurent</label>
+        </div>
+                </div>
+        
+            </div>
+            
+        </div>
+        <div class="brand">
+            <span class="filter-title">Forme :</span>
+            <div>
+                <input type="checkbox" name="" id="">
+                <img src="pics/rectangle.jpg" alt="">
+                <label for="">Rectangle</label>
+            </div>
+            <div>
+                <input type="checkbox" name="" id="">
+                <img src="pics/carree.jpg" alt="">
+                <label for="">Carrée</label>
+            </div>
+            <div>
+                <input type="checkbox" name="" id="">
+                <img src="pics/arrondie.jpg" alt="">
+                <label for="">Arrondie</label>
+            </div>
+            <div>
+                <input type="checkbox" name="" id="">
+                <img src="pics/ovale.jpg" alt="">
+                <label for="">Ovale</label>
+            </div>
+            <div>
+                <input type="checkbox" name="" id="">
+                <img src="pics/aviateur.jpg" alt="">
+                <label for="">Aviateur</label>
+            </div>
+            <div>
+                <input type="checkbox" name="" id="">
+                <img src="pics/papillon.jpg" alt="">
+                <label for="">Papillon</label>
+            </div>
+            
+
+        </div>
+    </div>
+
+    <div class="products">
+        <div class="product-items">
+            <div class="item homme" >
+                <div>
+                    <i class="fa-solid fa-heart" ></i>
+                    <img src="pics/lunette 2.jpg" alt="">
+                </div>
+                <p>Tom Ford</p>
+                <span>600dt</span>
+                <div class="colors-filter">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <button class="hello" ><i class="fa-solid fa-basket-shopping"></i> Ajouter au panier</button>
+            </div>
+
+            <div class="item homme">
+                <div>
+                    <i class="fa-solid fa-heart"></i>
+                    <img src="pics/lunete 3.jpg" alt="">
+                </div>
+                <p>Ray-Ban</p>
+                <span>850dt</span>
+                <div class="colors-filter">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <button class="hello" ><i class="fa-solid fa-basket-shopping"></i> Ajouter au panier</button>
+            </div>
+            <div class="item femme">
+                <div>
+                    <i class="fa-solid fa-heart"></i>
+                    <img src="pics/lunette4.jpg" alt="">
+                </div>
+                <p>Givenchy</p>
+                <span>590dt</span>
+                <div class="colors-filter">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <button class="hello" ><i class="fa-solid fa-basket-shopping"></i> Ajouter au panier</button>
+            </div>
+            <div class="item femme">
+                <div>
+                    <i class="fa-solid fa-heart"></i>
+                    <img src="pics/lunette5.jpg" alt="">
+                </div>
+                <p>Versage</p>
+                <span>720dt</span>
+                <div class="colors-filter">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <button class="hello" ><i class="fa-solid fa-basket-shopping"></i> Ajouter au panier</button>
+            </div>
+            <div class="item enfant">
+                <div>
+                    <i class="fa-solid fa-heart"></i>
+                    <img src="pics/lunette6.jpg" alt="">
+                </div>
+                <p>Bvlgari</p>
+                <span>670dt</span>
+                <div class="colors-filter">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <button class="hello" ><i class="fa-solid fa-basket-shopping"></i> Ajouter au panier</button>
+            </div>
+            <div class="item mixte">
+                <div>
+                    <i class="fa-solid fa-heart"></i>
+                    <img src="pics/lunette7.jpg" alt="">
+                </div>
+                <p>Bvlgari</p>
+                <span>420dt</span>
+                <div class="colors-filter">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <button class="hello" ><i class="fa-solid fa-basket-shopping"></i> Ajouter au panier</button>
+            </div>
+            
+        </div>
+    </div> 
+   </section>
+   <footer>
+    <img src="pics/logo optc.jpg" alt="">
+    <h3>Copyright by Slim Optic  </h3>
+    <h3>Email Accessibility | Website Accessibility Policy | Login</h3>
+   </footer>
+
+
+
+      <script src="index.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
